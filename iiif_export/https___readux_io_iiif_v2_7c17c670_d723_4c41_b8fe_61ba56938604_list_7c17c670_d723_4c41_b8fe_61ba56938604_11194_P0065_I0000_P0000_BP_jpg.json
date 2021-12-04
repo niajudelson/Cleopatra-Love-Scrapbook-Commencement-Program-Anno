@@ -1,0 +1,109 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.io/iiif/v2/7c17c670-d723-4c41-b8fe-61ba56938604/list/7c17c670-d723-4c41-b8fe-61ba56938604_11194-P0065-I0000-P0000-BP.jpg",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "815d5a46-5d0a-4d49-9a6f-2291613ec6a9",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='815d5a46-5d0a-4d49-9a6f-2291613ec6a9' class='anno-815d5a46-5d0a-4d49-9a6f-2291613ec6a9' data-letter-spacing='0.1752450980392157'>Her</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/7c17c670-d723-4c41-b8fe-61ba56938604/canvas/7c17c670-d723-4c41-b8fe-61ba56938604_11194-P0065-I0000-P0000-BP.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/7c17c670-d723-4c41-b8fe-61ba56938604/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2746,468,170,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-815d5a46-5d0a-4d49-9a6f-2291613ec6a9: { height: 86px; width: 170px; font-size: 53.75px; letter-spacing: 29.791666666666668px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f953b247-3835-4a88-b46b-810dc0c593d6",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f953b247-3835-4a88-b46b-810dc0c593d6' class='anno-f953b247-3835-4a88-b46b-810dc0c593d6' data-letter-spacing='0.28326612903225806'>Go</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/7c17c670-d723-4c41-b8fe-61ba56938604/canvas/7c17c670-d723-4c41-b8fe-61ba56938604_11194-P0065-I0000-P0000-BP.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/7c17c670-d723-4c41-b8fe-61ba56938604/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2970,469,124,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f953b247-3835-4a88-b46b-810dc0c593d6: { height: 86px; width: 124px; font-size: 53.75px; letter-spacing: 35.125px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "dc7dbb53-1600-43ea-8516-df158f7f1487",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='dc7dbb53-1600-43ea-8516-df158f7f1487' class='anno-dc7dbb53-1600-43ea-8516-df158f7f1487' data-letter-spacing='0.19444444444444445'>199</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/7c17c670-d723-4c41-b8fe-61ba56938604/canvas/7c17c670-d723-4c41-b8fe-61ba56938604_11194-P0065-I0000-P0000-BP.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/7c17c670-d723-4c41-b8fe-61ba56938604/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2934,2828,72,32",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-dc7dbb53-1600-43ea-8516-df158f7f1487: { height: 32px; width: 72px; font-size: 20.0px; letter-spacing: 14.0px;}"
+            }
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.io/annotations/njudelson/7c17c670-d723-4c41-b8fe-61ba56938604/list/7c17c670-d723-4c41-b8fe-61ba56938604_11194-P0041-I0003-P0001-BP.jpg",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "db002564-2163-42db-9ceb-4983385dfb63",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "nia"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: 0.5in; line-height: 32px;\"><span style=\"font-family: 'Times New Roman', serif;\">This program of commencement exercises from the 1916 Atlanta University Commencement, featured in Cleopatra Love&rsquo;s scrapbook, gives a glimpse into the state of Black intellectual thought at the time. As Marcus S. Cox argues, &ldquo;because HBCUs were centers of intellectual and political life in the black community that collaborated on initiatives, shared ideas, and duplicated efforts, one can learn a great deal about the black experience&rdquo; by studying black educational institutions (Cox 977). This particular program highlights Black art and culture (Negro National Anthem, Hiawatha), as well as wonders about the sociopolitical futurity for people of color in the United States. Featured essay titles, such as &ldquo;Social Barriers to the Survival of the Fit,&rdquo; &ldquo;The Economical and Political Future of the American Negro,&rdquo; and &ldquo;What Atlanta University has done for the Negro Race&rdquo; illustrate the wonderings and anxieties of the Black intellectual and the Black institution in the face of racial inequality.</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/7c17c670-d723-4c41-b8fe-61ba56938604/canvas/7c17c670-d723-4c41-b8fe-61ba56938604_11194-P0041-I0003-P0001-BP.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/7c17c670-d723-4c41-b8fe-61ba56938604/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1252,1117,361,89",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1252.36811,1116.85533h180.66443v0h180.66443v44.426v44.426h-180.66443h-180.66443v-44.426z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d9128785-c5fa-4848-b02e-6856281de85b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=1252,1117,361,89"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b0bedbee-ac3a-4cc3-8326-d0bd7bb32353",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "nia"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: 0.5in; line-height: 32px;\"><span style=\"font-family: 'Times New Roman', serif;\">A notable name in this graduation program is Walter Francis White (1893-1955), who graduated with Cleopatra Love and went on to become a significant Civil Rights activist.&nbsp; A 1906 race riot spurred White into activism, even though he grew up in a white-passing household. In 1916, shortly after graduating from Atlanta University, White become a founding member of the Atlanta chapter of the NAACP. Later, he became an assistant secretary to the national staff of the NAACP. While civil rights activists came from a variety of backgrounds, here we see one beginning of a new wave of racial justice activism, as well as the impact of a black canon and black institutions on issues of equity.</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: 0.5in; line-height: 32px;\"><span style=\"font-family: 'Times New Roman', serif;\">&nbsp;</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/7c17c670-d723-4c41-b8fe-61ba56938604/canvas/7c17c670-d723-4c41-b8fe-61ba56938604_11194-P0041-I0003-P0001-BP.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/7c17c670-d723-4c41-b8fe-61ba56938604/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1543,2428,501,49",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1542.74723,2427.58621h250.31633v0h250.31633v24.50113v24.50113h-250.31633h-250.31633v-24.50113z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_edbcd159-1087-4939-b1d7-3c0d003de35f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=1543,2428,501,49"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5aed5d78-c8a3-4d69-ae6a-c12c5c6309ab",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "nia"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: 0.5in; line-height: 32px;\"><span style=\"font-family: 'Times New Roman', serif;\">The inclusion of Coleridge-Taylor&rsquo;s <em>Hiawatha</em> in the program gestures to the emerging black canon both inside and out outside of academia. Coleridge-Taylor (1875-1912), along with figures such as Phyllis Wheatley, Paul Lawrence Dunbar, Booker T. Washington, and Henry O. Tanner, came to represent Black exceptionality in a variety of mediums: music, painting, writing, education. (McGinty 200). A black opera composer from London, Coleridge-Taylor wrote <em>Hiawatha</em> in 1898. By the early 1900s, he was exceptionally popular throughout the United States. His creative success was closely followed by black American newspapers, and &ldquo;many African Americans looked upon the composure with an admiration that frequently bordered on hero worship&rdquo; (McGinty 199). Featured in this commencement ceremony, <em>Hiawatha </em>grounds the Atlanta University education in black exceptionalism and black tradition.</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/7c17c670-d723-4c41-b8fe-61ba56938604/canvas/7c17c670-d723-4c41-b8fe-61ba56938604_11194-P0041-I0003-P0001-BP.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/7c17c670-d723-4c41-b8fe-61ba56938604/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1757,2493,282,57",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1757.32276,2492.98066h140.98499v0h140.98499v28.58828v28.58828h-140.98499h-140.98499v-28.58828z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8e5689b8-22ca-485c-8c4d-727f8745721b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=1757,2493,282,57"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
